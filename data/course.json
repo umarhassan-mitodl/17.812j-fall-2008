@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "legacy_uid": "2b8af2a6-241d-ef64-ca77-8097972bc4ab",
+  "instructors": {
+    "content": [
+      "9bcd3fb0-c600-669e-87f7-e1501fdbc05d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "412b0248-f55b-2208-9ff9-d36547290436",
+    "website": "17-812j-collective-choice-i-fall-2008"
+  },
+  "course_title": "Collective Choice I",
+  "course_description": "This is an applied theory course covering topics in the political economy of democratic countries. This course examines political institutions from a rational choice perspective. The now burgeoning rational choice literature on legislatures, bureaucracies, courts, and elections constitutes the chief focus. Some focus will be placed on institutions from a comparative and/or international perspective.\n",
+  "department_numbers": [
+    "17",
+    "14"
+  ],
+  "extra_course_numbers": "14.296J",
+  "primary_course_number": "17.812J",
+  "course_image_thumbnail": {
+    "content": "c9461c04-3f1d-18f9-bdbc-bb91c017e046",
+    "website": "17-812j-collective-choice-i-fall-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "39fd4dc9-f831-4662-8c0b-fb1f244130df",
+  "site_short_id": "17.812j-fall-2008",
+  "site_url_path": "courses/17-812j-collective-choice-i-fall-2008",
+  "title": "Course Metadata"
+}
