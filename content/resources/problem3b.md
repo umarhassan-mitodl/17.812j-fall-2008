@@ -4,6 +4,8 @@ description: Additional problem for Problem Set 3 on multi-party election games.
 file: /courses/17-812j-collective-choice-i-fall-2008/ccfd30095105f424193c5bcb2e77962e_problem3b.pdf
 file_size: 135027
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides an overview of the course and information
   on meeting times, grading, and the schedule of lecture topics and key dates for
   the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -60,7 +62,7 @@ Two topic reviews
 
 {{< tableclose >}}
 
-Problem sets are mostly taken from {{% resource_link "71ec6a14-179b-4fe1-b41a-4a70af90e8c3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Persson, Torsten, and Guido Tabellini. _Political Economics: Explaining Economic Policy_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317, with the due dates indicated in the calendar below. The topic reviews consist of the following: selecting three articles on a particular topic in political economy (which could be any non-starred paper in the reading list, or any group of papers outside the reading list), explaining the main contributions of each article, and assessing what is learned about the topic from the articles and what questions remain unresolved. Each review should be no longer than 6 pages.
+Problem sets are mostly taken from [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661317) Persson, Torsten, and Guido Tabellini. _Political Economics: Explaining Economic Policy_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317, with the due dates indicated in the calendar below. The topic reviews consist of the following: selecting three articles on a particular topic in political economy (which could be any non-starred paper in the reading list, or any group of papers outside the reading list), explaining the main contributions of each article, and assessing what is learned about the topic from the articles and what questions remain unresolved. Each review should be no longer than 6 pages.
 
 Calendar
 --------

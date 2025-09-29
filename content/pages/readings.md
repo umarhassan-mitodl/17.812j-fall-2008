@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a list of books for the course and the schedule
   of reading assignments by lecture session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ General Books
 
 The main book for the class is:
 
-{{% resource_link "71ec6a14-179b-4fe1-b41a-4a70af90e8c3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Persson, Torsten, and Guido Tabellini. {{% resource_link "71ec6a14-179b-4fe1-b41a-4a70af90e8c3" "_Political Economics: Explaining Economic Policy_" %}}. Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317. (Referred to as PT in the table below.)
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661317) Persson, Torsten, and Guido Tabellini. [_Political Economics: Explaining Economic Policy_](https://mitpress.mit.edu/9780262661317). Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317. (Referred to as PT in the table below.)
 
 The reading list gives the corresponding sections in PT. Also good to read:
 
@@ -22,7 +24,7 @@ Austen-Smith, David, and Jeffrey S. Banks. _Positive Political Theory I: Collect
 
 Buchanan, James M., and Gordon Tullock. _The Calculus of Consent: Logical Foundations of Constitutional Democracy_. Ann Arbor, MI: University of Michigan Press, 1962. ISBN: 9780472061006.
 
-{{% resource_link "fc6ad3d9-ec24-43b1-857c-46d97cc2ed78" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Grossman, Gene M., and Elhanan Helpman. {{% resource_link "fc6ad3d9-ec24-43b1-857c-46d97cc2ed78" "_Special Interest Politics_" %}}. Cambridge, MA: MIT Press, 2002. ISBN: 9780262571678.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262571678) Grossman, Gene M., and Elhanan Helpman. [_Special Interest Politics_](https://mitpress.mit.edu/9780262571678). Cambridge, MA: MIT Press, 2002. ISBN: 9780262571678.
 
 Mueller, Dennis C. _Public Choice II_. Rev. ed. Cambridge, UK: University of Cambridge Press, 1989. ISBN: 9780521379526.
 
@@ -261,7 +263,7 @@ Roemer, John E. "Why the Poor Do Not Expropriate the Rich: An Old Argument in Ne
 
 Snyder, James M., Jr., and Michael M. Ting. "An Informational Rationale for Political Parties." _American Journal of Political Science_ 46 (2002): 90-110.
 
-Bernhardt, Dan, Larissa Campuzano, and Francesco Squintani. "On the Benefits of Party Competition." ELSE Working Paper No. 122. ESRC Centre for Economic Learning and Social Evolution, London, UK, June 2005. ({{% resource_link "3ae17789-e259-4a85-8fb6-f6e63d7619b1" "PDF" %}})
+Bernhardt, Dan, Larissa Campuzano, and Francesco Squintani. "On the Benefits of Party Competition." ELSE Working Paper No. 122. ESRC Centre for Economic Learning and Social Evolution, London, UK, June 2005. ([PDF](https://kingcenter.stanford.edu/publications/more-law-more-measuring-legal-reform-peoples-republic-china))
 
 
 {{< tdclose >}}
@@ -289,7 +291,7 @@ Possibility of a point-valued solution
 
 \*McKelvey, Richard D. "Intransitivities in Multidimensional Voting Models and Some Implications for Agenda Control." _Journal of Economic Theory_ 12 (1976): 472-482.
 
-Patty, John, James M. Snyder, Jr., and Michael M. Ting. 2008. "Two's Company, Three's an Equilibrium: Strategic Voting and Multicandidate Elections." Unpublished paper, July 2008. ( {{% resource_link "c8c275cf-8b30-4e7f-b68a-2653adbaaff4" "PDF" %}})
+Patty, John, James M. Snyder, Jr., and Michael M. Ting. 2008. "Two's Company, Three's an Equilibrium: Strategic Voting and Multicandidate Elections." Unpublished paper, July 2008. ( [PDF](http://econ-www.mit.edu/files/2983))
 
 
 {{< tdclose >}}
@@ -473,7 +475,7 @@ Lohmann, Suzanne. "Information, Access, and Contributions: A Signaling Model of 
 
 \*Hall, Richard L., and Alan V. Deardorff. "Lobbying as Legislative Subsidy." _American Political Science Review_ 100, no. 1 (2006): 69-84.
 
-Chamon, Marcos, and Ethan Kaplin. "The Iceberg Theory of Campaign Contributions: Political Threats and Interest Group Behavior." Unpublished paper, April 2007. ({{% resource_link "d874666b-4908-4fac-a9fc-2ea25587e8af" "PDF" %}})
+Chamon, Marcos, and Ethan Kaplin. "The Iceberg Theory of Campaign Contributions: Political Threats and Interest Group Behavior." Unpublished paper, April 2007. ([PDF](http://econweb.umd.edu/~kaplan/peaeafinal.pdf))
 
 
 {{< tdclose >}}
@@ -603,7 +605,7 @@ Representative vs. direct democracy
 {{< tdopen >}}
 
 
-Schultz, Christian. "Information, Polarization and Accountability in Democracy." Unpublished paper, April 2004. ({{% resource_link "9acee90e-cb27-4070-bab3-36edea92ea46" "PDF" %}})
+Schultz, Christian. "Information, Polarization and Accountability in Democracy." Unpublished paper, April 2004. ([PDF](http://www.econ.ku.dk/cschultz/undersider/workpap/inf-pol-and-account.pdf))
 
 \*Maskin, Eric, and Jean Tirole. "The Politician and the Judge: Accountability in Government." _American Economic Review_ 94, no. 4 (2004): 1034-1054.
 

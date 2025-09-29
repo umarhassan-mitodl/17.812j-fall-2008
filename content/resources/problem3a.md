@@ -5,6 +5,8 @@ description: Additional problem for Problem Set 3 on the citizen-candidate model
 file: /courses/17-812j-collective-choice-i-fall-2008/967a394eea80bdab82b5a8962f17f936_problem3a.pdf
 file_size: 98006
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
