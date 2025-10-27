@@ -4,8 +4,6 @@ description: Problem set on the political economy of democratic countries.
 file: /courses/17-812j-collective-choice-i-fall-2008/96bef1ab03cfb173edc1b5809b9b4609_pset3.pdf
 file_size: 88219
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

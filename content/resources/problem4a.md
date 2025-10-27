@@ -5,8 +5,6 @@ description: Additional problem for Problem Set 4 on the framework of Snyder (19
 file: /courses/17-812j-collective-choice-i-fall-2008/470675dbc62c0a14daaa7e2161e741a5_problem4a.pdf
 file_size: 119126
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
